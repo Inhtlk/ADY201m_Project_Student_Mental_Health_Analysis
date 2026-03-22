@@ -18,7 +18,7 @@ Bạn có thể xem các biểu đồ tương tác tại đây:
 
 ## Cấu trúc thư mục (Project Structure)
 
-Plaintext
+ ```text
 ADY201m_Project_Student_Mental_Health_Analysis/
 ├── data/                                  # Chứa các tệp dữ liệu gốc và dữ liệu dự báo
 │   ├── Student Insomnia and Education...csv
@@ -31,7 +31,7 @@ ADY201m_Project_Student_Mental_Health_Analysis/
 ├── sql/                                   # Chứa các truy vấn dữ liệu bằng SQL
 │   └── data_cleaning.sql                  # Script làm sạch dữ liệu trên database
 ├── README.md                              # Giới thiệu tổng quan và hướng dẫn dự án
-
+ ```
 ---
 
 ## Câu hỏi nghiên cứu (Research Questions)
