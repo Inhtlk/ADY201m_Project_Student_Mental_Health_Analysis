@@ -10,9 +10,9 @@ Thông qua việc khai thác dữ liệu về giấc ngủ và kết quả học
 
 ---
 
-## Dashboard trực tuyến
-Bạn có thể xem các biểu đồ tương tác tại đây:
-👉 [**Link Streamlit Dashboard**]([https://student-stress-dashboard-ady-apffo852xwebh7rsrq4uyf.streamlit.app/](https://student-stress-dashboard-ady-apffo852xwebh7rsrq4uyf.streamlit.app/#academic-stress-level-across-gpa-ratings))
+##  Dashboard trực tuyến
+Bạn có thể xem các biểu đồ tương tác tại đây: 
+ [**Link Streamlit Dashboard**](https://student-stress-dashboard-ady-apffo852xwebh7rsrq4uyf.streamlit.app/)
 
 ---
 
