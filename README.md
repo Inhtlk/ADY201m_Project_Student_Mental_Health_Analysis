@@ -50,17 +50,17 @@ ADY201m_Project_Student_Mental_Health_Analysis/
 ## Cách sử dụng
 Để chạy dự án này ở máy cục bộ (Local):
 1. Clone kho lưu trữ:
-   ```bash
-   git clone [https://github.com/Inhtlk/ADY201m_Project_Student_Mental_Health_Analysis.git](https://github.com/Inhtlk/ADY201m_Project_Student_Mental_Health_Analysis.git)
-   ```
+```bash
+git clone [https://github.com/Inhtlk/ADY201m_Project_Student_Mental_Health_Analysis.git](https://github.com/Inhtlk/ADY201m_Project_Student_Mental_Health_Analysis.git)
+```
 2. Cài đặt thư viện:
- ```bash
-   git clone [ip install -r requirements.txt]
- ```
+```bash
+git clone [ip install -r requirements.txt]
+```
 3. Khởi chạy dashboard:
-   ```bash
-   git clone [ip install -r requirements.txt]
-   ```
+```bash
+streamlit run dashboards/app.py
+```
 ---
 
 ## Kết quả thực nghiệm (Experimental Results)
